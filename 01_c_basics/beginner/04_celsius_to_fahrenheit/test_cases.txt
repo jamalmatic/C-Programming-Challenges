@@ -1,0 +1,33 @@
+Test Case 1
+Input:
+0
+
+Expected Output:
+32.00
+
+---------------------
+
+Test Case 2
+Input:
+25
+
+Expected Output:
+77.00
+
+---------------------
+
+Test Case 3
+Input:
+-10
+
+Expected Output:
+14.00
+
+---------------------
+
+Test Case 4
+Input:
+100
+
+Expected Output:
+212.00
