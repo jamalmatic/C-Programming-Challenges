@@ -1,0 +1,6 @@
+Test Case 1
+Input:
+(no input)
+
+Expected Output:
+Hello, World!
