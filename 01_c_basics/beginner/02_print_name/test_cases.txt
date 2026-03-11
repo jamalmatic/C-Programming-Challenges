@@ -1,0 +1,24 @@
+Test Case 1
+Input:
+Jamal
+
+Expected Output:
+Hello, Jamal!
+
+---------------------
+
+Test Case 2
+Input:
+Alice
+
+Expected Output:
+Hello, Alice!
+
+---------------------
+
+Test Case 3
+Input:
+Omar
+
+Expected Output:
+Hello, Omar!
