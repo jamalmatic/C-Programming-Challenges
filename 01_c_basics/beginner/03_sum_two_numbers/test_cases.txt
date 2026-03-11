@@ -1,0 +1,33 @@
+Test Case 1
+Input:
+5 7
+
+Expected Output:
+Sum = 12
+
+---------------------
+
+Test Case 2
+Input:
+-3 10
+
+Expected Output:
+Sum = 7
+
+---------------------
+
+Test Case 3
+Input:
+0 0
+
+Expected Output:
+Sum = 0
+
+---------------------
+
+Test Case 4
+Input:
+100 -50
+
+Expected Output:
+Sum = 50
