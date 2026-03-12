@@ -1,0 +1,37 @@
+Test Case 1
+Input (space-separated):
+1000 5 2
+
+Expected Output:
+Interest = 100
+
+---------------------
+
+Test Case 2
+Input (one per line):
+1500
+4.5
+3
+
+Expected Output:
+Interest = 202
+
+---------------------
+
+Test Case 3
+Input (space-separated):
+2000 6 1.5
+
+Expected Output:
+Interest = 180
+
+---------------------
+
+Test Case 4
+Input (one per line):
+0
+10
+5
+
+Expected Output:
+Interest = 0
