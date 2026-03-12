@@ -1,0 +1,42 @@
+Test Case 1
+Input:
+3665
+
+Expected Output:
+1 hour(s) 1 minute(s) 5 second(s)
+
+---------------------
+
+Test Case 2
+Input:
+7322
+
+Expected Output:
+2 hour(s) 2 minute(s) 2 second(s)
+
+---------------------
+
+Test Case 3
+Input:
+59
+
+Expected Output:
+0 hour(s) 0 minute(s) 59 second(s)
+
+---------------------
+
+Test Case 4
+Input:
+3600
+
+Expected Output:
+1 hour(s) 0 minute(s) 0 second(s)
+
+---------------------
+
+Test Case 5
+Input:
+86399
+
+Expected Output:
+23 hour(s) 59 minute(s) 59 second(s)
