@@ -51,14 +51,14 @@ Explanation:
 
 | Challenge             | Description                                 |
 | --------------------- | ------------------------------------------- |
-| Hello World           | Write your first C program                  |
-| Print Your Name       | Print your name using `printf()`            |
-| Sum Two Numbers       | Read two numbers and print their sum        |
-| Temperature Converter | Convert Celsius to Fahrenheit               |
-| Swap Two Numbers      | Swap two numbers using a temporary variable |
-| ASCII Value           | Print the ASCII value of a character        |
-| Area of Circle        | Compute the area of a circle                |
-| Simple Interest       | Calculate simple interest                   |
+| [Hello World](beginner/01_hello_world/README.md)           | Write your first C program                  |
+| [Print Your Name](beginner/02_print_name/README.md)       | Print your name using `printf()`            |
+| [Sum Two Numbers](beginner/03_sum_two_numbers/README.md)       | Read two numbers and print their sum        |
+| [Temperature Converter](beginner/04_celsius_to_fahrenheit/README.md) | Convert Celsius to Fahrenheit               |
+| [Swap Two Numbers](beginner/05_swap_two_numbers/README.md)      | Swap two numbers using a temporary variable |
+| [ASCII Value](beginner/06_ascii_value/README.md)           | Print the ASCII value of a character        |
+| [Area of Circle](beginner/07_area_of_circle/README.md)        | Compute the area of a circle                |
+| [Simple Interest](beginner/08_simple_interest/README.md)       | Calculate simple interest                   |
 
 ---
 
