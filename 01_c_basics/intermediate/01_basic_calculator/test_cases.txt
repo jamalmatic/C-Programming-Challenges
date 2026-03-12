@@ -1,0 +1,45 @@
+Test Case 1
+Input:
+10 5
+
+Expected Output:
+Addition = 15.00
+Subtraction = 5.00
+Multiplication = 50.00
+Division = 2.00
+
+---------------------
+
+Test Case 2
+Input:
+8 2
+
+Expected Output:
+Addition = 10.00
+Subtraction = 6.00
+Multiplication = 16.00
+Division = 4.00
+
+---------------------
+
+Test Case 3
+Input:
+7 3
+
+Expected Output:
+Addition = 10.00
+Subtraction = 4.00
+Multiplication = 21.00
+Division = 2.33
+
+---------------------
+
+Test Case 4
+Input:
+12.5 2.5
+
+Expected Output:
+Addition = 15.00
+Subtraction = 10.00
+Multiplication = 31.25
+Division = 5.00
