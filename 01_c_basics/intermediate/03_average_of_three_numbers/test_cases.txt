@@ -1,0 +1,42 @@
+Test Case 1
+Input:
+10 20 30
+
+Expected Output:
+Average = 20.00
+
+---------------------
+
+Test Case 2
+Input:
+5 10 15
+
+Expected Output:
+Average = 10.00
+
+---------------------
+
+Test Case 3
+Input:
+2 4 6
+
+Expected Output:
+Average = 4.00
+
+---------------------
+
+Test Case 4
+Input:
+7.5 8.5 9.5
+
+Expected Output:
+Average = 8.50
+
+---------------------
+
+Test Case 5
+Input:
+1 2 3
+
+Expected Output:
+Average = 2.00
